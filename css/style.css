@@ -1,0 +1,43 @@
+body {
+  background: black;
+}
+
+h2, h3, p, th, td {
+  color: white;
+}
+
+#footer {
+  margin-top: 50px;
+}
+
+.marginright15 {
+  margin-right: 15px;
+}
+
+.marginleft15 {
+  margin-left: 15px;
+}
+
+.margintop15 {
+  margin-top: 15px;
+}
+
+.marginbottom15 {
+  margin-bottom: 15px;
+}
+
+.table {
+  margin-top: 270px;
+}
+
+#latestBook {
+  font-size: 4em;
+}
+
+p, td {
+   font-family: 'Gentium Basic', serif;
+}
+
+h1, h2, h3, th {
+  font-family: 'Open Sans', sans-serif;
+  }
